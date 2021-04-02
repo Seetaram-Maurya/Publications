@@ -5,4 +5,4 @@ Condition-Based Monitoring in Variable Machine Running Conditions Using Low-Leve
 
 Fusion of Low-level Features with Stacked Autoencoder for Condition based Monitoring of Machines: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8448969
 
-Improved EMD local energy with SVM for fault diagnosis in air compressor
+Improved EMD local energy with SVM for fault diagnosis in air compressor: https://link.springer.com/chapter/10.1007/978-981-13-1135-2_7
